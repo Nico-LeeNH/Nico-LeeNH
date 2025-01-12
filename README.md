@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nico Lee Nathanael Handoko</h1>
 <h3 align="center">A Backend Developer</h3>
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nico-leenh&label=Profile%20views&color=0e75b6&style=flat" alt="nico-leenh" /> </p>
-
-- 📫 How to reach me **new.nikolee2007@gmail.com**
+<br>
+<br>
+📫 How to reach me **new.nikolee2007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,8 +11,13 @@
 <a href="https://www.hackerrank.com/@new_nikolee2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/new_nikolee2007" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-</a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Tech Stack
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://static-00.iconduck.com/assets.00/laravel-icon-995x1024-dk77ahh4.png" /></a>
+  <a href="https://vuejs.org/"><img align="left" alt="Vue" title="Vue" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" /></a>
+  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+  <br>
+  <br>
 
 #Github Stats
 <p align="left">
